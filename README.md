@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 What I Do  
+##  What I Do  
 - Build scalable **data pipelines** and workflows  
 - Design **machine learning models**  
 - Create **insightful dashboards** and **visualizations**  
