@@ -8,6 +8,12 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)  
 🤖 Passionate about: **Machine Learning & MLOps**  
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brem-21&show_icons=true&locale=en&layout=compact" alt="brempong" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brem-21&show_icons=true&locale=en" alt="brempong" /></p>
+
 ---
 
 ## 🚀 What I Do  
@@ -16,7 +22,7 @@
 - Create **insightful dashboards** and **visualizations**  
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brem-21&show_icons=true&locale=en&layout=compact" alt="brempong" /></p>
+
 
 
 ## 📫 Let's Connect!  
