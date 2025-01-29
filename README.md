@@ -16,11 +16,12 @@
 - Create **insightful dashboards** and **visualizations**  
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brem-21&show_icons=true&locale=en&layout=compact" alt="brempong" /></p>
 
-<a href="https://www.hackerrank.com/brempong_dankwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brempong_dankwah" height="30" width="40" /></a>
-</p>
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brempong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brempong-appiah-dankwah-61619a244/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Brempong-black?style=flat-square&logo=github)](https://github.com/brem-21)
 [![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail)](mailto:brempong.dankwah@amalitech.com) 
+<a href="https://www.hackerrank.com/brempong_dankwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brempong_dankwah" height="30" width="40" /></a>
+
