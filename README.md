@@ -29,6 +29,9 @@
 ---
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?brem-21=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brempong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brempong-appiah-dankwah-61619a244/)  
